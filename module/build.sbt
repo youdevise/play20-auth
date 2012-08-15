@@ -1,6 +1,6 @@
 name := "play20.auth"
 
-version := "0.3-SNAPSHOT"
+version := "0.3-YD1"
 
 resolvers ++= Seq(
   "Typesafe repository" at "http://repo.typesafe.com/typesafe/releases/"
